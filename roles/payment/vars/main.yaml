@@ -1,0 +1,6 @@
+
+CART_HOST: cart.chandu.fun
+USER_HOST: user.chandu.fun
+RABBITMQ_HOST: rabbitmq.chandu.fun
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123

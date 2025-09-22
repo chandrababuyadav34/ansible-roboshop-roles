@@ -1,0 +1,6 @@
+
+CATALOGUE_HOST: catalogue.chandu.fun
+USER_HOST: user.chandu.fun
+CART_HOST: cart.chandu.fun
+SHIPPING_HOST: shipping.chandu.fun
+PAYMENT_HOST: payment.chandu.fun
